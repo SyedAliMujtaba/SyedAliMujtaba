@@ -37,8 +37,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,c,github,vscode,netlify,nodejs,python )]([https://skillicons.dev](https://skillicons.dev/))
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabehshaikh&show_icons=true&locale=en&layout=compact" alt="sabehshaikh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedalimujtaba&show_icons=true&locale=en&layout=compact" alt="syedalimujtaba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabehshaikh&show_icons=true&locale=en" alt="sabehshaikh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedalimujtaba&show_icons=true&locale=en" alt="syedalimujtaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabehshaikh&" alt="sabehshaikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalimujtaba&" alt="syedalimujtaba" /></p>
